@@ -15,3 +15,11 @@ the ball is a smily emoji and it will continue moving for 5 rounds
 
 In the end the number of the winner(if winner is player1 number of winner is one) will be displayed on the board
 ![image](https://user-images.githubusercontent.com/62964622/197350488-ac953c30-45bb-4750-80d1-e64c2c90b42b.png)
+
+
+Participants:
+Blen Assefa Tilahun [GitHub](https://github.com/blenassefa2)
+Abel Hailemicahel
+elena Girma
+Eleni Zewdu
+
