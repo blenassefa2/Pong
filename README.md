@@ -18,8 +18,8 @@ In the end the number of the winner(if winner is player1 number of winner is one
 
 
 Participants:
-Blen Assefa Tilahun [GitHub](https://github.com/blenassefa2)
-Abel Hailemicahel
-elena Girma
-Eleni Zewdu
+Blen Assefa Tilahun [GitHub](https://github.com/blenassefa2)<br>
+Abel Hailemicahel <br>
+elena Girma<br>
+Eleni Zewdu<br>
 
